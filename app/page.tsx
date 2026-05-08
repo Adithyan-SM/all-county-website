@@ -17,11 +17,11 @@ export default function Home() {
           </p>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-8">
-            Build A Backyard
+            Premium Deck
             <br />
-            You Actually Want
+            Building Across
             <br />
-            To Spend Time In
+            Toronto & GTA
           </h1>
 
           <p className="text-xl text-gray-200 leading-relaxed max-w-3xl mx-auto mb-10">
