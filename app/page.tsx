@@ -13,7 +13,7 @@ export default function Home() {
 
         <div className="relative z-10 text-center px-6 max-w-5xl">
           <p className="uppercase tracking-[0.3em] text-gray-300 mb-5">
-            Premium Exterior Renovations
+            Premium Deck Builders
           </p>
 
           <h1 className="text-5xl md:text-7xl font-bold text-white leading-tight mb-8">
@@ -30,9 +30,12 @@ export default function Home() {
           </p>
 
           <div className="flex flex-wrap gap-5 justify-center">
-            <button className="bg-white text-black px-8 py-4 rounded-2xl font-semibold hover:bg-gray-200 transition">
+            <a
+              href="/quote"
+              className="bg-white text-black px-8 py-4 rounded-2xl font-semibold hover:bg-gray-200 transition inline-block"
+            >
               Get Free Estimate
-            </button>
+            </a>
 
             <button className="border border-white text-white px-8 py-4 rounded-2xl font-semibold hover:bg-white hover:text-black transition">
               View Projects
