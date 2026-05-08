@@ -4,7 +4,7 @@ export default function Home() {
       {/* HERO */}
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <img
-          src="https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?q=80&w=1600&auto=format&fit=crop"
+          src="/images/multilevel-cedar-deck.jpg"
           alt="Deck Builder"
           className="absolute inset-0 w-full h-full object-cover"
         />
